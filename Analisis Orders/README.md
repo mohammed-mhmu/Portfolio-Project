@@ -80,9 +80,7 @@ Order status split (completed vs. cancelled), quantity distribution, discount di
 
 ![Figure 4 - Status, Discounts & Sales](https://raw.githubusercontent.com/mohammed-mhmu/Portfolio-Project/main/Analisis%20Orders/notebook/files/figure4_status_discount_sales.png)
 
----https://raw.githubusercontent.com/mohammed-mhmu/Portfolio-Project/main/Analisis%20Orders/notebook/files/figure4_status_discount_sales.png
 
-/mohammed-mhmu/Portfolio-Project/blob/main/Analisis%20Orders/notebook/files/figure1_category_performance.png
 ## ▶️ How to Run
 
 1. Make sure `Orders.csv` is placed inside a `data/` folder next to the notebook (`data/Orders.csv`).
