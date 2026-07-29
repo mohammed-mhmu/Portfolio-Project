@@ -63,25 +63,26 @@ A `Year_Month` field (e.g. `2023-01`) is also derived from `Order Date` to suppo
 ### Figure 1 — Sales Performance by Category
 Total revenue, net profit, quantity sold, and share of orders across the 10 product categories.
 
-![Figure 1 - Category Performance](/notebook/files/figure1_category_performance.png)
+![Figure 1 - Category Performance](notebook/files/figure1_category_performance.png)
 
 ### Figure 2 — Orders Trend Over Time
 Monthly order counts, monthly revenue, orders by day of week, and monthly quantity sold.
 
-![Figure 2 - Time Trends](/notebook/files/figure2_time_trends.png)
+![Figure 2 - Time Trends](https://raw.githubusercontent.com/mohammed-mhmu/Portfolio-Project/main/Analisis%20Orders/notebook/files/figure2_time_trends.png)
 
 ### Figure 3 — Geographic Distribution of Orders
 Orders and revenue by country, top 10 cities by order count, and a scatter map of order locations colored by revenue.
 
-![Figure 3 - Geographic Distribution](/notebook/files/figure3_geography.png)
+![Figure 3 - Geographic Distribution](https://raw.githubusercontent.com/mohammed-mhmu/Portfolio-Project/main/Analisis%20Orders/notebook/files/figure3_geography.png)
 
 ### Figure 4 — Order Status, Discounts & Top Sales Performers
 Order status split (completed vs. cancelled), quantity distribution, discount distribution, and the top 10 sales persons by revenue.
 
-![Figure 4 - Status, Discounts & Sales](/notebook/files/figure4_status_discount_sales.png)
+![Figure 4 - Status, Discounts & Sales](https://raw.githubusercontent.com/mohammed-mhmu/Portfolio-Project/main/Analisis%20Orders/notebook/files/figure4_status_discount_sales.png)
 
----
+---https://raw.githubusercontent.com/mohammed-mhmu/Portfolio-Project/main/Analisis%20Orders/notebook/files/figure4_status_discount_sales.png
 
+/mohammed-mhmu/Portfolio-Project/blob/main/Analisis%20Orders/notebook/files/figure1_category_performance.png
 ## ▶️ How to Run
 
 1. Make sure `Orders.csv` is placed inside a `data/` folder next to the notebook (`data/Orders.csv`).
